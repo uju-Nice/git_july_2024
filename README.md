@@ -1,0 +1,2 @@
+# git_july_2024
+THIS IS A REPO FOR JULY BATCH 
